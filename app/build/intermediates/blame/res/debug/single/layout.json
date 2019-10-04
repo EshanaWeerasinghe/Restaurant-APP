@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_n__veg.xml",
+        "source": "E:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_n__veg.xml"
+    },
+    {
+        "merged": "D:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finalize_order.xml",
+        "source": "D:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_finalize_order.xml"
+    },
+    {
+        "merged": "E:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slimple_text_client.xml",
+        "source": "E:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_slimple_text_client.xml"
+    },
+    {
+        "merged": "E:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finalize_order.xml",
+        "source": "E:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_finalize_order.xml"
+    },
+    {
+        "merged": "E:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_starters.xml",
+        "source": "E:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_starters.xml"
+    },
+    {
+        "merged": "E:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thankyou.xml",
+        "source": "E:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_thankyou.xml"
+    },
+    {
+        "merged": "D:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dessert.xml",
+        "source": "D:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_dessert.xml"
+    },
+    {
+        "merged": "D:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_veg.xml",
+        "source": "D:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_veg.xml"
+    },
+    {
+        "merged": "E:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order__type.xml",
+        "source": "E:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_order__type.xml"
+    },
+    {
+        "merged": "D:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thankyou.xml",
+        "source": "D:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_thankyou.xml"
+    },
+    {
+        "merged": "E:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dessert.xml",
+        "source": "E:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_dessert.xml"
+    },
+    {
+        "merged": "D:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slimple_text_client.xml",
+        "source": "D:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_slimple_text_client.xml"
+    },
+    {
+        "merged": "D:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_starters.xml",
+        "source": "D:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_starters.xml"
+    },
+    {
+        "merged": "E:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_veg.xml",
+        "source": "E:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_veg.xml"
+    },
+    {
+        "merged": "D:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_n__veg.xml",
+        "source": "D:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_n__veg.xml"
+    },
+    {
+        "merged": "D:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_virtual_waitress.xml",
+        "source": "D:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_virtual_waitress.xml"
+    },
+    {
+        "merged": "E:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_virtual_waitress.xml",
+        "source": "E:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_virtual_waitress.xml"
+    },
+    {
+        "merged": "D:\\Android-Food-Ordering-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order__type.xml",
+        "source": "D:\\Android-Food-Ordering-System-master\\app\\src\\main\\res\\layout\\activity_order__type.xml"
+    }
+]
